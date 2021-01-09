@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+<h1 align="center">
+   Clone da Netflix
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+<h1 align="center">
+    <img alt="Clone da Netflix" src="public/image/net.gif" width="500px" />
+</h1><br><br>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  ## 📚 Sobre 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Esse projeto é um clone da main page principal da [NETFLIX](https://www.netflix.com/), desenvolvida através desse [TUTORIAL](https://www.youtube.com/watch?v=tBweoUiMsDg) no youtube. Obs: A escolha para ta fazendo esse projeto atraves desse tutorial foi o fato de ter o primeiro contato com o framework [React](https://pt-br.reactjs.org/)
+e começar a estudar. Confeço que já faz um tempo que queria da o ponta pé inicial nessa tecnologia, no entanto, tinha comigo o sentimento que ainda não estava pronto. Após alguns meses de estudo contínuo na base com [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) senti a segurança de enfrentar esse medo e sem sobra de duvidas foi uma bos escolha. Com tudo, ficou mais facíl e compreensivo cada etapa desse projeto e trago comigo a acerteza que irei trazer outros projetinhos com essa tecologia incrível.
 
-### `npm test`
+ ## 💻 Tecnologias utilizadas
+  - HTML
+  - Css
+  - JavaScript
+  - React
+  - Node.Js
+  - Express
+  - [TMBD - site da API para listar os Filmes](https://www.themoviedb.org/)
+  - Npm 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 💻 Como baixar o projeto 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    # Clonar o repositório atraves GitHub Desktop
+    $ git clone https://github.com/NatanSiilva/Clone-Netflix-React.git
 
-### `npm run eject`
+    # Entrar no diretório
+    $ cd Clone-Netflix-React
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+    # Instalar as dependêcias
+    $ npm install 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+    # Iniciar o projeto
+    $  npm start
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align= center>
+🐱‍👤 Desenvolvido por <strong>Natanael Silva</strong>   -----   Me adicione no <a href="https://www.linkedin.com/in/natanael-silva-33b374188/"target="_blank">Linkedin</a> e veja o meu <a href="https://natanaelsilva.vercel.app/"target="_blank">Portfólio</a>
+</p>
