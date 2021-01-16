@@ -3,12 +3,12 @@
 </h1>
 
 <h1 align="center">
-    <img alt="Clone da Netflix" src="public/image/page.png" width="500px" />
+    <img alt="Clone da Netflix" src="image/page.png" width="500px" />
 </h1><br><br>
 
 
 <h1 align="center">
-    <img alt="Clone da Netflix" src="public/image/net.gif" width="500px" />
+    <img alt="Clone da Netflix" src="image/net.gif" width="500px" />
 </h1><br><br>
 
 
